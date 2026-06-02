@@ -4,7 +4,7 @@
 
 | Campo | Información |
 |-------|-------------|
-| **Curso** | Solucciones Moviles II |
+| **Curso** | Soluciones Moviles II |
 | **Nombre del Alumno** | Royser Alonsso Villanueva Mamani |
 | **Código de Estudiante** | 2021071090 |
 | **Fecha** | 02/06/2026 |
