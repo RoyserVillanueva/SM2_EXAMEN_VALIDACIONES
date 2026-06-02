@@ -63,6 +63,7 @@ static final RegExp _phoneRegExp = RegExp(r'^\d{9}$');
 #### 2. Estado de carga
 
 **Antes de Cargar**
+
 ![Cargando antes](assets/Capturas/1.png)
 
 **Despues**
