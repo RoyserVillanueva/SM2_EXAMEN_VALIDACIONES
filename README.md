@@ -64,7 +64,9 @@ static final RegExp _phoneRegExp = RegExp(r'^\d{9}$');
 
 **Antes de Cargar**
 ![Cargando antes](assets/Capturas/1.png)
+
 **Despues**
+
 ![Cargando despues](assets/Capturas/3.png)
 
 #### 3. Envio de Verificación de correo
